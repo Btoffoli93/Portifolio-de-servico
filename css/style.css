@@ -12,6 +12,7 @@ body{
     background-image: url(../images/pexels-josh-hild-4270292.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    background-size: 100%;
 }
 
 div.menu{
